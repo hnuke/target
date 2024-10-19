@@ -1,0 +1,14 @@
+C:\Users\hstuq\Desktop\target\bin\Debug\net8.0\target.exe
+C:\Users\hstuq\Desktop\target\bin\Debug\net8.0\target.deps.json
+C:\Users\hstuq\Desktop\target\bin\Debug\net8.0\target.runtimeconfig.json
+C:\Users\hstuq\Desktop\target\bin\Debug\net8.0\target.dll
+C:\Users\hstuq\Desktop\target\bin\Debug\net8.0\target.pdb
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\target.AssemblyInfoInputs.cache
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\target.AssemblyInfo.cs
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\target.csproj.CoreCompileInputs.cache
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\target.dll
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\refint\target.dll
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\target.pdb
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\target.genruntimeconfig.cache
+C:\Users\hstuq\Desktop\target\obj\Debug\net8.0\ref\target.dll
